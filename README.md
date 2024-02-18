@@ -4,7 +4,10 @@
 
 ## Tecnologías Utilizadas
 
-- **Componentes UI:** He utilizado [Shadcn/UI](https://shadcn-ui.com/) para diseñar y desarrollar los componentes de mi aplicación, garantizando una interfaz de usuario atractiva y funcional.
+- **Componentes UI:** He utilizado [Shadcn/UI](https://shadcn-ui.com/) para diseñar y desarrollar los componentes de mi aplicación, garantizando una interfaz de usuario atractiva y funcional. Para instalar Shadcn/UI, ejecuté los siguientes comandos:
+  ```bash
+  npx create-next-app@latest my-app --typescript --tailwind --eslint
+  npx shadcn-ui@latest init
 
 - **Framework Frontend:** Mi elección de framework frontend es [Next.js](https://nextjs.org/), que me permite construir aplicaciones web modernas con renderizado del lado del servidor y en el cliente, además de otras características avanzadas.
 
@@ -19,4 +22,7 @@ Para ejecutar cualquiera de los proyectos incluidos en este portafolio, sigue es
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
    ```bash
-   git clone https://github.com/tu-usuario/portafolio-andres-ortiz.git
+   git clone https://github.com/jaortiz16/Portfolio)https://github.com/jaortiz16/Portfolio
+2. Inicialo con
+     ```bash
+     npm run dev
