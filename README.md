@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portafolio de Andrés Ortiz - Desarrollador Web Full Stack
 
-## Getting Started
+¡Bienvenido a mi portafolio en línea! Soy Andrés Ortiz, un desarrollador web full stack apasionado por crear soluciones tecnológicas innovadoras. Este repositorio contiene una muestra de mis proyectos y habilidades técnicas.
 
-First, run the development server:
+## Tecnologías Utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Componentes UI:** He utilizado [Shadcn/UI](https://shadcn-ui.com/) para diseñar y desarrollar los componentes de mi aplicación, garantizando una interfaz de usuario atractiva y funcional.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Framework Frontend:** Mi elección de framework frontend es [Next.js](https://nextjs.org/), que me permite construir aplicaciones web modernas con renderizado del lado del servidor y en el cliente, además de otras características avanzadas.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Estilos CSS:** Para la estilización de mis proyectos, he empleado [Tailwind CSS](https://tailwindcss.com/), un framework de CSS utility-first que facilita el desarrollo de interfaces responsivas y personalizadas.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Cómo Ejecutar los Proyectos
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Para ejecutar cualquiera de los proyectos incluidos en este portafolio, sigue estos pasos:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ```bash
+   git clone https://github.com/tu-usuario/portafolio-andres-ortiz.git
