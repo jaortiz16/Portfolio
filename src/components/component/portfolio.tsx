@@ -286,7 +286,7 @@ export function Portfolio() {
   );
 }
 
-function TornadoIcon(props) {
+function TornadoIcon(props:any) {
   return (
     <svg
       {...props}
